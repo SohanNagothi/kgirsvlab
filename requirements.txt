@@ -1,5 +1,8 @@
-streamlit
-pandas
-numpy
-plotly
-fpdf2
+streamlit>=1.38.0
+pandas>=2.2.2
+numpy>=1.26.4
+networkx>=3.3
+plotly>=5.24.1
+pyvis>=0.3.2
+fpdf2>=2.8.2
+kaleido>=0.2.1
